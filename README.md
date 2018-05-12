@@ -1,1 +1,1 @@
-https://zszywka.github.io/ObiektXMLHttpRequest/
+https://zszywka.github.io/randomJokes/
