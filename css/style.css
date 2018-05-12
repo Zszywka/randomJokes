@@ -1,0 +1,13 @@
+#get-joke {
+  color: red;
+  font-size: 25px;
+  margin-left: 45%;
+  margin-top: 20%;
+  padding: 5px;
+  cursor: pointer; }
+
+#joke {
+  font-size: 35px;
+  margin: 5% 20%; }
+
+/*# sourceMappingURL=style.css.map */
