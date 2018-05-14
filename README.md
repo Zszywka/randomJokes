@@ -1,1 +1,1 @@
-https://zszywka.github.io/randomJokes/
+https://zszywka.github.io/randomJokesinJS/
